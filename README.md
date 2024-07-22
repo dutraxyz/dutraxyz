@@ -1,7 +1,4 @@
 ## Hi there 👋
 
-<hr>
-Pequeno perfil de um cidadão comum
-
-- 🌱 I’m currently learning Golang, Kubernetes, Rust, etc
+- 🌱 I’m currently learning Golang, Kubernetes and Rust
 - 😄 Pronouns: He/Him
